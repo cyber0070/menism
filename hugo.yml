@@ -23,7 +23,7 @@ markup:
 menu:
   main:
   - name: Blogs
-    url: /blog/
+    url: blog/
     weight: 1
   - name: About
     url: about/
