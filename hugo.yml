@@ -54,7 +54,7 @@ params:
   homeInfoParams:
     Title: "Hello 👋"
     Content: >
-      I am writing about men here. Because it's needed.
+      I am writing about men here. Because it's needed. a place on internet for men ;)
 
   socialIcons:
     - name: rss
